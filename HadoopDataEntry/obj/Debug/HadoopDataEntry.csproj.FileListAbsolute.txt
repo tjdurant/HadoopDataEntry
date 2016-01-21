@@ -130,3 +130,9 @@ C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Microsoft.
 C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\obj\Debug\HadoopDataEntry.csprojResolveAssemblyReference.cache
 C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\obj\Debug\HadoopDataEntry.dll
 C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\obj\Debug\HadoopDataEntry.pdb
+C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Elasticsearch.Net.dll
+C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Nest.dll
+C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Elasticsearch.Net.pdb
+C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Elasticsearch.Net.xml
+C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Nest.pdb
+C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Nest.xml

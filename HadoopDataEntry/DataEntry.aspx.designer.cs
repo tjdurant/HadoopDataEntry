@@ -10,7 +10,6 @@
 namespace HadoopDataEntry
 {
 
-
     public partial class DataEntry
     {
     }

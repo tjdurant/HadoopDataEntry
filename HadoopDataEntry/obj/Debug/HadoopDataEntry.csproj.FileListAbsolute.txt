@@ -136,3 +136,4 @@ C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Elasticsea
 C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Elasticsearch.Net.xml
 C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Nest.pdb
 C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\Nest.xml
+C:\Users\thoma\Documents\00GitHub\HadoopDataEntry\HadoopDataEntry\bin\CKEditor.NET.dll
